@@ -1,1 +1,1 @@
-https://marketer.github.io
+http://marketer.github.io
